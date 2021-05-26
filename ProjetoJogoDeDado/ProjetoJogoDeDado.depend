@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620264376 source:c:\users\y17ad\onedrive\documentos\curso de programação em c\projetojogodedado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

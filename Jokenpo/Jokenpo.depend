@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621769280 source:c:\users\y17ad\onedrive\documentos\curso de programação em c\jokenpo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621775918 source:c:\users\y17ad\onedrive\documentos\curso de programação em c\jogo de cartas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

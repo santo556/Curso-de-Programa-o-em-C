@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618698277 source:c:\users\y17ad\onedrive\documentos\curso de programação em c\projeto ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
